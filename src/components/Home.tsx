@@ -8,7 +8,7 @@ export default function Home() {
     <Container className='py-4'>
         {
           projects.map((project) => (
-            <Cards key={project.id} project={project} />
+            <Cards key={project.id} {...project} />
           ))
         }
     </Container>

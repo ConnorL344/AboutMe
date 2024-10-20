@@ -1,6 +1,5 @@
-export interface cardsdsModel {
+export interface cardsModel {
     id: number;
     title: string;
     description: string;
-    image: string;
 }
