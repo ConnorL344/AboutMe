@@ -1,0 +1,13 @@
+.responsive-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  @media (min-width: 576px) {
+    .responsive-stack {
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+  }
+  

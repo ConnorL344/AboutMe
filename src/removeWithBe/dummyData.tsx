@@ -39,5 +39,13 @@ export const projects = [
     "technologies": ["Solidity", "Ethereum", "Web3.js", "React"],
     "duration": "4 months",
     "role": "Blockchain Developer"
+  },
+  {
+    "id": 6,
+    "title": "Blockchain-based Supply Chain System",
+    "description": "Developed a decentralized application for tracking products through the supply chain using smart contracts.",
+    "technologies": ["Solidity", "Ethereum", "Web3.js", "React"],
+    "duration": "4 months",
+    "role": "Blockchain Developer"
   }
 ]
