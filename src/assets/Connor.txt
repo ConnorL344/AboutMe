@@ -1,0 +1,68 @@
+CONNOR LAVERTY
+
+MOBILE: 07872872721
+EMAIL: CONNORLAVERTY1500@GMAIL.COM
+PERSONAL STATEMENT
+I am a driven and diligent professional committed to delivering top-notch results in every task I undertake. Through my various job roles, I've honed exceptional client and technical communication skills, fostering positive relationships and accelerating my professional growth. I thrive when working independently, as it provides an invaluable opportunity for personal development, knowledge acquisition, and gaining insightful perspectives.
+My focus has been on the dynamic realm of Full Stack Development, allowing me to delve deeply into every facet of the development lifecycle. This specialization has not only broadened my expertise but also fuelled my ambition to excel in the field.
+Education & Qualifications
+University of Ulster: 2015-2019
+BSc Hons Computing Science – 2.1
+IT Skills profile
+Exam certifications: Microsoft Programming in C# (70-483 Deprecated), Microsoft Querying Data with Transact-SQL(70-761 Deprecated), Developing Solutions for Microsoft Azure(AZ-204 Active), Designing and Implementing an Azure AI Solution(AI-100 Inactive)
+Development Languages/Frameworks: Java, C#, SQL, JavaScript, ASP.Net, HTML, CSS,
+LINQ, Typescript, Angular V2-17, .NET Core, T-SQL
+Applications: Visual Studio, Android Studio, PyCharm, Firebase, SSIS, SSRS, Azure Portal, Visual Studio Code, MongoDB, Visual Studio Code, MongoDB Compass 
+Work Experience
+Lightwell Inc (Eliassen)	Senior Software developer (Full Stack) 	October 2020 – Present
+Client – 3
+Tech Stack Utilized:
+Angular, TypeScript, PrimeNG
+.NET, C#, Azure
+MongoDB, CosmosDB
+Azure DevOps
+Key Responsibilities:
+Spearheading the development of our internal Core/Demo application.
+Crafting innovative components adhering to the latest Angular standards.
+Elevating both functionality and aesthetics of the application by creating custom HTML and CSS elements.
+Ensuring seamless scalability across various devices, including desktops, tablets, and mobile devices.
+Conducting in-depth Proof of Concepts (P.O.Cs) to evaluate the feasibility and potential value of new components.
+Gen AI Offering Development:
+Tech Stack: Azure.OpenAI.SDK, CosmosDB, Azure Functions
+Developed an abstraction layer using the Azure.OpenAI.SDK, enabling seamless interaction with AI capabilities.
+Implemented a feature to divide files into manageable chunks for processing with the embedding service.
+Created a CosmosDB instance to facilitate efficient data storage and retrieval, allowing for advanced vector search capabilities.
+Designed and developed a completions endpoint, empowering users to engineer prompts directly from the UI, thus eliminating the need for hard-coded responses within the abstraction layer.
+Client - 2
+I played a pivotal role in a significant version upgrade, transitioning our platform from AngularJS to cutting-edge Angular 16. During this complex endeavour, I achieved the following milestones:
+Seamless Component Upgrades: Successfully upgraded multiple intricate components, ensuring a seamless transition without disrupting core functionalities.
+Dynamic Data Adaptation: Overcame the challenges posed by dynamic data by implementing changes that could adapt to various inputs, ensuring the stability and reliability of our system.
+Smooth Production Go-Live: Collaborated effectively to facilitate a smooth go-live to production, ensuring no major issues occurred during this critical phase.
+Client - 1
+Tech Stack Utilized:
+Angular, TypeScript, Material, NgRx
+.NET, C#, Azure
+SQL, Entity Framework
+Azure DevOps
+
+
+Key Contributions:
+Enhanced Component Design: Designed and implemented enhanced components that greatly improved user functionality within the Parent Portal.
+Bug Resolution: Diligently addressed and rectified bugs to enhance the performance and usability of both the Admin and Parent Portals.
+Feature Development: Played a key role in feature development, including the creation of a context switcher. This feature empowered Admins to seamlessly transition between different academic years while accessing critical metrics, significantly improving their user experience.
+State Management: Utilized NgRx to manage the application state efficiently, ensuring a predictable and maintainable state management solution across the platform.
+Lightwell Inc 		Software developer (MuleSoft) 	October 2020 – November 2021
+Developing complete APIs for system, experience and process layers
+Working with the client to complete high demand APIs in time and ready for QA
+Writing complex dataweave for business requirements  
+Creating, maintaining and merging GIT branches
+Responsible for deployment to the DEV environment along with testing ensuring the product works as expected 
+Peer reviews in front of the client to ensure they API worked and responded as they wanted it to
+Responding to client feedback
+CI/CD pipeline usage in Jenkins 
+Ensuring the quality gate (SonarQube) was passed by writing munits for each flow
+Working to a deadlines  
+Creating postman collections to be exported for use regardless of the env
+Revising during my personal time to extend my professional development
+References 
+Provided Upon Request.
