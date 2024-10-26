@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Button } from 'react-bootstrap';
-import { FaGithub, FaLinkedin, FaFileDownload, FaDumbbell, FaBook, FaFistRaised } from 'react-icons/fa';
+import { FaLinkedin, FaFileDownload, FaDumbbell, FaBook, FaFistRaised } from 'react-icons/fa';
 import FeatureComponent from '../Feature/FeatureComponent';
 import { TypeAnimation } from 'react-type-animation';
 import './AboutMe.css';
