@@ -1,0 +1,16 @@
+.skill-card {
+    transition: transform 0.2s ease-in-out;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.skill-card:hover {
+    transform: translateY(-5px);
+    background-color: grey;
+}
+
+.hover-effect {
+    cursor: pointer;
+}
