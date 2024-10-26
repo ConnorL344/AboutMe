@@ -1,0 +1,100 @@
+.profile-image-container {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.profile-image {
+  max-height: 300px;
+  width: auto;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.profile-image:hover {
+  transform: scale(1.05);
+}
+
+.social-links button {
+  transition: transform 0.2s ease;
+}
+
+.social-links button:hover {
+  transform: translateY(-3px);
+}
+
+.timeline {
+  position: relative;
+  padding: 20px 0;
+}
+
+.timeline-item {
+  padding: 20px;
+  border-left: 2px solid #007bff;
+  margin-left: 20px;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -8px;
+  top: 24px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #007bff;
+}
+  .journey-image-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.journey-image {
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+.about-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.journey-title {
+  color: #007bff;
+  margin-bottom: 30px;
+}
+
+.interests-section {
+    margin: 20px 0;
+}
+
+.interests-icons {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 15px;
+}
+
+.interest-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    transition: transform 0.2s ease;
+}
+
+.interest-item:hover {
+    transform: translateY(-5px);
+    color: #007bff;
+}
+
+.interest-item span {
+    font-size: 0.9rem;
+    font-weight: 500;
+}

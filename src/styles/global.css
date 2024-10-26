@@ -1,0 +1,26 @@
+.project-card, .blog-card {
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover, .blog-card:hover {
+  transform: translateY(-5px);
+}
+
+.smooth-scroll {
+  scroll-behavior: smooth;
+}
+
+[data-theme='dark'] {
+    --bg-color: #1a1a1a;
+    --text-color: #ffffff;
+    --card-bg: #2d2d2d;
+  }
+  
+  .navbar {
+    z-index: 900;
+  }
+  
+  .theme-toggle {
+    z-index: 1000;
+  }
+  
